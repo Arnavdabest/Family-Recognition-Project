@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+    color:cyan;
+}
+.heading{
+    font-size: 40px;
+    width:70%;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+color:darkgoldenrod;
+font-size: 18px;
+}
+#camera{
+    border: 2px dashed darkolivegreen;
+    width:350px;
+    height:300px;
+}
